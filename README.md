@@ -1,8 +1,6 @@
 # JavTube Server Koyeb
 
-## 项目介绍
-
-永久免费方案：
+**永久免费方案：**
 
 - 2 Apps
 - 2 Services per App
